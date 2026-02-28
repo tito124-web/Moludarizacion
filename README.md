@@ -9,3 +9,4 @@ Factorial — Calcula el factorial de un número no negativo con un ciclo for, u
 Juego de adivinanza — Genera un número aleatorio entre 1 y 100 y guía al usuario con pistas de mayor o menor en un do-while hasta que adivine.
 Paso por referencia — Simula el intercambio de dos variables usando una clase interna Contenedor, ya que Java no tiene paso por referencia nativo para primitivos.
 Tabla de multiplicar — Recibe un número y muestra su tabla del 1 al 10 formateada, generada dentro del método mostrarTablaMultiplicar().
+..
