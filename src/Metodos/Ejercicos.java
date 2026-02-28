@@ -313,7 +313,7 @@ public class Ejercicos {
 	    }
 	    //ejercico10
 	    public static void tablaMultiplicar() {
-	        System.out.println("\n--- 📊 TABLA DE MULTIPLICAR ---");
+	        System.out.println("\n--- TABLA DE MULTIPLICAR ---");
 	        System.out.print("Ingresa un número: ");
 	        int numero = Integer.parseInt(sc.nextLine());
 	        mostrarTabla(numero);
